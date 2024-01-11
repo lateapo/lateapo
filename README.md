@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lateapo
 - 👀 I’m interested in Machine Learning, Computer Vision, Backend developing.
 - 🌱 I’m currently learning all of the above
-- 😄 Pronouns: he/he
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: I suck at math :/
 
 <!---
